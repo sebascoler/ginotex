@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env
+*.log
+assets/SesionOtoño/*
+!assets/SesionOtoño/1slot.JPG
+!assets/SesionOtoño/carousel1.JPG
+!assets/SesionOtoño/carousel2.JPG
+!assets/SesionOtoño/Carousel3.JPG
+!assets/SesionOtoño/carousel4.JPG
